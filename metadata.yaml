@@ -1,0 +1,43 @@
+_repo: The-Hunting-of-the-Snark--An-Agony-in-Eight-Fits_29888
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Holiday, Henry
+    birthdate: 1839
+    deathdate: 1927
+    gutenberg_agent_id: '34227'
+    url: http://www.gutenberg.org/2009/agents/34227
+covers:
+- cover_type: archival
+  image_path: 29888-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: (Publishers Description) "Oliver Twist's famous cry of the heart--"Please,
+  sir, I want some more"--has resounded with generations of readers of all ages. The
+  author poured his own youthful experience of Victorian London's unspeakable squalor
+  into this realistic depiction of a spirited young innocent's unwilling but inevitable
+  recruitment into a scabrous gang of thieves. Masterminded by the loathsome Fagin,
+  the underworld crew features some of Dickens' most memorable characters, including
+  the vicious Bill Sikes, gentle Nancy, and the juvenile pickpocket known as the Artful
+  Dodger." (Major British Writers, Peter Schenck Class)
+gutenberg_issued: '2009-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29888'
+  lccn: '12031266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Nonsense verses, English'
+title: 'The Hunting of the Snark: An Agony, in Eight Fits'
+url: http://www.gutenberg.org/ebooks/29888
